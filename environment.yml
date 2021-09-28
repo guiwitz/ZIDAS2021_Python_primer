@@ -1,0 +1,13 @@
+name: ZIDAS
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - scikit-image
+  - jupyter
+  - jupyterlab
+  - pandas
+  - pip:
+    - cellpose
