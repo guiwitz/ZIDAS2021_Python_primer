@@ -9,5 +9,7 @@ dependencies:
   - jupyter
   - jupyterlab
   - pandas
+  - microfilm
   - pip:
     - cellpose
+    - napari[all]
